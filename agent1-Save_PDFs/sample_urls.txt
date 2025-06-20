@@ -1,0 +1,5 @@
+# Sample URLs for testing
+https://example.com
+https://httpbin.org/html
+https://www.python.org
+https://github.com
